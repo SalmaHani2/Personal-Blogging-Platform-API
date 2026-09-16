@@ -31,6 +31,8 @@ Key endpoints
 - GET /api/tags
 
 Architecture overview
+https://roadmap.sh/projects/blogging-platform-api
+
 Client -> Controller -> Service -> Repository/DbContext -> EF Core -> SQL Server
 
 Notes for students
